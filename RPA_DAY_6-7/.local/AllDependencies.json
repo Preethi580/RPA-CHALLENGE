@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "RPA_DAY_6-7",
       "projectName": "RPA_DAY_6-7",
-      "projectPath": "C:\\Users\\saravana kumar\\Documents\\UiPath\\RPA_DAY_6-7\\.local",
+      "projectPath": "D:\\RPA CHALLENGE\\RPA-CHALLENGE\\RPA_DAY_6-7\\.local",
       "packagesPath": "C:\\Users\\saravana kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saravana kumar\\Documents\\UiPath\\RPA_DAY_6-7\\.local"
+      "outputPath": "D:\\RPA CHALLENGE\\RPA-CHALLENGE\\RPA_DAY_6-7\\.local"
     },
     "frameworks": {
       "net461": {
